@@ -1,0 +1,10 @@
+C:\Users\biggi\source\repos\Kripton\Kripton\obj\Debug\Kripton.csprojAssemblyReference.cache
+C:\Users\biggi\source\repos\Kripton\Kripton\obj\Debug\Kripton.csproj.CoreCompileInputs.cache
+C:\Users\biggi\source\repos\Kripton\Kripton\bin\Debug\Kripton.exe.config
+C:\Users\biggi\source\repos\Kripton\Kripton\bin\Debug\Kripton.exe
+C:\Users\biggi\source\repos\Kripton\Kripton\bin\Debug\Kripton.pdb
+C:\Users\biggi\source\repos\Kripton\Kripton\obj\Debug\Kripton.exe
+C:\Users\biggi\source\repos\Kripton\Kripton\obj\Debug\Kripton.pdb
+C:\Users\biggi\source\repos\Kripton\Kripton\bin\Debug\Newtonsoft.Json.dll
+C:\Users\biggi\source\repos\Kripton\Kripton\bin\Debug\Newtonsoft.Json.xml
+C:\Users\biggi\source\repos\Kripton\Kripton\obj\Debug\Kripton.csproj.CopyComplete
